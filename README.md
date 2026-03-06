@@ -1,5 +1,5 @@
-# CodeSoft Virtual Internship Projects
-Internship: CodeSoft Virtual Internship
+# CodSoft Virtual Internship Projects
+Internship: CodSoft Virtual Internship
 Domain: Web Development
 Duration: [01 july 2025 to 31 july 2025]
 Introduction:
